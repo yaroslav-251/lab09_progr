@@ -12,3 +12,4 @@ C:\Users\Student_01\Documents\lab09_kolpakov\obj\Debug\net10.0\refint\lab09_kolp
 C:\Users\Student_01\Documents\lab09_kolpakov\obj\Debug\net10.0\lab09_kolpakov.pdb
 C:\Users\Student_01\Documents\lab09_kolpakov\obj\Debug\net10.0\lab09_kolpakov.genruntimeconfig.cache
 C:\Users\Student_01\Documents\lab09_kolpakov\obj\Debug\net10.0\ref\lab09_kolpakov.dll
+C:\Users\Student_01\Documents\lab09_kolpakov\obj\Debug\net10.0\lab09_kolpakov.sourcelink.json
