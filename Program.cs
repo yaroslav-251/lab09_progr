@@ -68,3 +68,24 @@
 //         break;
 //     }
 // }
+// Допзадание
+int u = 0;
+int N = Convert.ToInt32(Console.ReadLine());
+for (int c = 1; c <= N; c++)
+{
+    if (u == 20)
+    {
+        break;
+    }
+    for (int n = 1; n <= 7; n++)
+    {
+        if (n == 7)
+        {
+            continue;
+        }
+        u += 1;
+    }
+
+
+}
+Console.WriteLine(u);
